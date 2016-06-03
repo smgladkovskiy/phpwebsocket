@@ -1,0 +1,11 @@
+{
+	"name": "smgladkovskiy/phpwebsocket",
+	"type": "kohana-module",
+	"description": "WebSockets client/server",
+	"keywords": ["php", "websockets"],
+	"license": "MIT",
+	"require": {
+		"php": ">=5.3.0",
+		"composer/installers": "*"
+	}
+}
